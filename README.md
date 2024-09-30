@@ -1,7 +1,7 @@
 # Excel Data Analysis & Dashboard Project
 
 ## Overview
-This project aimed to replicate a real-world Ecommerce Sales solution. It focused on transforming and analysing transactional data, to then feed into a dynamic dashboard, from which commercial trends/insights etc. could be gleaned
+This project aimed to replicate a real-world Ecommerce Sales solution. It focused on transforming and analysing transactional data, to then feed into a dynamic dashboard, from which commercial trends/insights etc. could be gained.
 
 ## Tools Used
 - Kaggle (for original data set)
