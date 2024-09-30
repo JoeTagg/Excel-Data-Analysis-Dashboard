@@ -24,7 +24,7 @@ This project aimed to replicate a real-world Ecommerce Sales solution. It focuse
 - Original data required lots of cleaning
 - Vast amount of transaction records were not attributed to a customer ID, perhaps they purchased in 'Guest' mode. Worth investigating, as missing out on a large amount of customer buying insights
 - Large number of transactions featuring non-standard product descriptions. Perhaps stock transfer, gratis orders, stock balancing. Would need investigation and ideally routing elsewhere
-- Significant min/max price distribuion for many product lines. Box plot chart can be produced to visual this. Some variance explained by discounts applied at checkout, revenue lost by such variance
+- Significant min/max price distribution for many product lines. Box plot chart can be produced to visual this. Some variance explained by discounts applied at checkout, revenue lost by such variance
 2. Visualisations
 - Incredibly strong performance and year-on-year growth, across revenue, order volume, and quantity of products shifted
 - Average order value remains steady, neglible variance between 2010 and 2011
