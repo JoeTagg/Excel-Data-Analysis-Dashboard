@@ -43,6 +43,6 @@ This project aimed to replicate a real-world Ecommerce Sales solution. It focuse
 - If more ecommerce transactions were collected, I'm fairly confident the raw data and the analysis tabs (with all the Pivottables and calculations on) should be able to receive this and update automatically. The dashboard charts would likely need manually adjusting to reflect new data
 
 ## Caveats
-- Original data set was fictious, but reasonably representative of a real-world set of ecommerce transaction records
+- Original data set was fictitious, but reasonably representative of a real-world set of ecommerce transaction records
 - I stripped out all of the unallocated and non-standard records, to make the final data cleaner
 - Two years of data was often grouped together, so the results displayed might be heavily skewed by annual differences
